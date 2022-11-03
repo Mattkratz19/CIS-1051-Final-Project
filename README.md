@@ -1,6 +1,6 @@
 # CIS-1051-Final-Project
 
-### I plan to make a game similar to "Doodle Jump". The player will operate a character that never stops jumping and the goal is to go as high as possible by jumping on platforms. There will be various obstacles that attempt to end the game or hinder the players' progress. There is lava that slowly rises up beneath the player as to prevent slow and methodical gameplay, and to provide the feeling of rush or anxiety. I intend to make it a side-scroller game or a game where if the character goes off the left side of the screen, the character appears on the right side of the screen, preserving momentum. (Format looks better in raw or source forms.)
+#### I plan to make a game similar to "Doodle Jump". The player will operate a character that never stops jumping and the goal is to go as high as possible by jumping on platforms. There will be various obstacles that attempt to end the game or hinder the players' progress. There is lava that slowly rises up beneath the player as to prevent slow and methodical gameplay, and to provide the feeling of rush or anxiety. I intend to make it a side-scroller game or a game where if the character goes off the left side of the screen, the character appears on the right side of the screen, preserving momentum. (Format looks better in raw or source forms.)
 
 Obstacles/Challenges:
 ~Spikes on platforms
