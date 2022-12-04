@@ -19,7 +19,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have a working platforming game
+I have a working platforming game, some debugging is required.
 
 #### What have you not done for your project yet?
 
