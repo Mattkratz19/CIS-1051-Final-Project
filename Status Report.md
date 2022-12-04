@@ -6,7 +6,8 @@ Matt Kratz
 
 #### Your section leader's name
 
-Bin Li
+Lecture - Professor Rosen
+Lab - Bin Li
 
 #### Project title
 
