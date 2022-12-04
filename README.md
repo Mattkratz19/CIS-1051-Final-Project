@@ -4,15 +4,12 @@
 
 ##### Obstacles/Challenges:
 ~Spikes on platforms  
-~Moving platforms  
-~Cannons that shoot projectiles  
 ~Lava that slowly rises up from beneath the player  
 ~The playable character is in a perpetual loop of jumping. Makes the game have a cadence.  
 
 ##### Positive Power-ups:
 ~Clock - slows time to aid in platform jumping and avoiding projectiles  
 ~Jetpack - flies the character up a few stories  
-~Shield - grants the player more health for a short time  
 
 ##### Negative Power-ups:
 ~Anvil - the player sinks down a few stories (opposite of jetpack)  
