@@ -23,7 +23,7 @@ I have a working platforming game
 
 #### What have you not done for your project yet?
 
-I have yet to add obstacles likes spikes and projectiles the player has to dodge.
+I have yet to add power ups and obstacles likes spikes and projectiles the player has to dodge.
 
 #### What problems, if any, have you encountered?
 
