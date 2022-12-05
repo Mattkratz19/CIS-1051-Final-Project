@@ -1,0 +1,25 @@
+Skribbl Jump
+
+Overview:
+-The goal of the game is to try and jump as high as you can and beat your previous high scores.
+-Score is calculated by the amount of platforms that disappear off the bottom of the screen.
+-Background changes every 20 score the player accumulates.
+-The player always starts off with 2 super jumps. One additional super jump is granted every 75 score the
+ player accumulates.
+-Game Over occurs when the player fails to land on a platform and falls to their death.
+
+Gameplay Elements:
+-Background that changes to a random color every time the player accumulates 20 score.
+-Platform generation is random after the first 7 platforms
+
+Controls:
+-"A" and "D" keys move the character left and right, respectively.
+-"Spacebar" activates Super Jump.
+-When Game Over, press "Enter" to restart, resetting all game conditions to the original state, and displaying
+ the high score, if applicable.
+
+UI:
+-Top left of the screen shows the player how many Super Jumps they have.
+-Top right of the screen displays the player's high score that was achieved within the current
+ instance of the game (closing the game and reopening it will display a high score of 0).
+-The text below the high score text is the player's current score.
