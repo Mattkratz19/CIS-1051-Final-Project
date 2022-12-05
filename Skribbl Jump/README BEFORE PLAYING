@@ -23,3 +23,7 @@ UI:
 -Top right of the screen displays the player's high score that was achieved within the current
  instance of the game (closing the game and reopening it will display a high score of 0).
 -The text below the high score text is the player's current score.
+
+Credits:
+Font used - https://www.jetbrains.com/lp/mono/
+Penguin character model used - https://www.pngaaa.com/detail/1584697
